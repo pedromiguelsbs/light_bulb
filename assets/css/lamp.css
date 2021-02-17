@@ -1,0 +1,12 @@
+.lamp {
+    width: 450px;
+    height: 450px;
+    margin: 1.25rem 0;
+}
+
+@media screen and (max-width: 460px) {
+    .lamp {
+        width: 100%;
+        height: auto;
+    }
+}

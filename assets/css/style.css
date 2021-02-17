@@ -1,0 +1,31 @@
+:root {
+    --bg: #F6F6F6;
+    --green: #58ad69e6;
+    --red: #e2574ce6;
+    --white: #FFFFFF;
+    --black: #1a1a1a;
+    --shadow: #00000033;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+    margin-top: 4%;
+}
+
+.container {
+    margin: 1rem auto 1rem;
+
+    max-width: 400px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: var(--bg);
+    border: 5px solid;
+    border-radius: 20px;
+    border-color: var(--shadow);
+}
