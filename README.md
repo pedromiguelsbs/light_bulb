@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Light Bulb é um projeto, desenvolvido com o objetivo de acender e apagar uma lâmpada dinamicamente através de um botão. 
+Light Bulb é um projeto desenvolvido com o objetivo de acender e apagar uma lâmpada dinamicamente através de um botão. 
 
 ## Layout
 ![Demonstração 1](https://i.imgur.com/J9IJxXn.png)
