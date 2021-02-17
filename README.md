@@ -23,10 +23,10 @@ Light Bulb é um projeto, desenvolvido com o objetivo de acender e apagar uma l�
 # 1°) Clone o repositório:
 git clone https://github.com/pedromiguelsbs/light_bulb
 
-# 2°) Entrar na pasta do projeto:
+# 2°) Entre na pasta do projeto:
 cd light_bulb
 
-# 3°) Abrir o projeto:
+# 3°) Abra o projeto:
 start index.html
 ```
 
