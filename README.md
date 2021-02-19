@@ -18,7 +18,7 @@ Light Bulb é um projeto desenvolvido com o objetivo de acender e apagar uma lâ
 # Como executar o projeto?
 
 ## 1° Opcão: Link
-https://pedromiguelsbs.github.io/simple_calculator/
+https://pedromiguelsbs.github.io/light_bulb/
 
 ## 2° Opção: Executar localmente
 ```bash
