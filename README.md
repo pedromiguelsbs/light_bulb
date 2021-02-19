@@ -10,15 +10,17 @@ Light Bulb é um projeto desenvolvido com o objetivo de acender e apagar uma lâ
 ![Demonstração 1](https://i.imgur.com/x0cKxID.png)
 
 # Tecnologias utilizadas
-## Front end
+## Front-End
 - HTML
 - CSS
 - JavaScript
 
 # Como executar o projeto?
 
-## Front end web
+## 1° Opcão: Link
+https://pedromiguelsbs.github.io/simple_calculator/
 
+## 2° Opção: Executar localmente
 ```bash
 # 1°) Clone o repositório:
 git clone https://github.com/pedromiguelsbs/light_bulb
